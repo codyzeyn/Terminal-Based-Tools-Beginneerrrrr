@@ -28,7 +28,7 @@ while True:
                     total += num
                 elif ope == "-":
                     total -= num
-                elif ope "x":
+                elif ope == "x":
                     total *= num
                 elif ope == "/":
                     total /= num
